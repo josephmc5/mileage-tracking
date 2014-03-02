@@ -1,0 +1,12 @@
+com/sprhib/service/LogServiceImpl.class
+com/sprhib/dao/LogDAO.class
+com/sprhib/dao/VehicleDAO.class
+com/sprhib/model/Vehicle.class
+com/sprhib/dao/EmployeeDAO.class
+com/sprhib/model/Log.class
+com/sprhib/service/LogService.class
+com/sprhib/model/Employee.class
+com/sprhib/dao/VehicleDAOImpl.class
+com/sprhib/service/EmployeeService.class
+com/sprhib/init/Initializer.class
+com/sprhib/init/WebAppConfig.class
